@@ -8,7 +8,7 @@ int main()
 	//int a = 10,b=15,c=0;
 	//cout << "请输入两个变量值" << endl;
 	//cin >> a >> b;
-	//c = a > b ? a : b;
+	//c = a > b ? a : b;github修改
 
 
 
